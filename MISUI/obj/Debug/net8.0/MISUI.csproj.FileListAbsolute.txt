@@ -1,0 +1,12 @@
+/Users/vu/Projects/MISAPI/MISUI/bin/Debug/net8.0/MISUI.deps.json
+/Users/vu/Projects/MISAPI/MISUI/bin/Debug/net8.0/MISUI.dll
+/Users/vu/Projects/MISAPI/MISUI/bin/Debug/net8.0/MISUI.pdb
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/MISUI.csproj.AssemblyReference.cache
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/MISUI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/MISUI.AssemblyInfoInputs.cache
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/MISUI.AssemblyInfo.cs
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/MISUI.csproj.CoreCompileInputs.cache
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/MISUI.dll
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/refint/MISUI.dll
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/MISUI.pdb
+/Users/vu/Projects/MISAPI/MISUI/obj/Debug/net8.0/ref/MISUI.dll

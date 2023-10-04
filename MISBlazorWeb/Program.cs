@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Microsoft.Fast.Components.FluentUI;
 using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage;
 using Microsoft.AspNetCore.Components.Authorization;
 using MISBlazorWeb.Services.Security;
@@ -12,7 +13,12 @@ builder.Services.AddAuthenticationCore();
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddScoped<ProtectedSessionStorage>();
-
+builder.Services.AddFluentUIComponents(options =>
+{
+    options.HostingModel = BlazorHostingModel.Server;
+});
+builder.Services.AddHttpClient();
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 //MIS add custom security
 builder.Services.AddScoped<AuthenticationStateProvider, MisAuthenticationStateProvider>();
 

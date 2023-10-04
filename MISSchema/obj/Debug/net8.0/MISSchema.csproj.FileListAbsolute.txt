@@ -1,0 +1,12 @@
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\bin\Debug\net8.0\MISSchema.deps.json
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\bin\Debug\net8.0\MISSchema.dll
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\bin\Debug\net8.0\MISSchema.pdb
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\MISSchema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\MISSchema.AssemblyInfoInputs.cache
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\MISSchema.AssemblyInfo.cs
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\MISSchema.csproj.CoreCompileInputs.cache
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\MISSchema.sourcelink.json
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\MISSchema.dll
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\refint\MISSchema.dll
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\MISSchema.pdb
+C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\obj\Debug\net8.0\ref\MISSchema.dll

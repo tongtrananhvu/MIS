@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MISSchema
-build_property.ProjectDir = /Users/vu/Projects/MISAPI/MISSchema/
+build_property.ProjectDir = C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISSchema\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

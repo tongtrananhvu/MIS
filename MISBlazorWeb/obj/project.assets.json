@@ -1239,25 +1239,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/vu/.nuget/packages/": {}
+    "C:\\Users\\Sea\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vu/Projects/MISAPI/MISBlazorWeb/MISBlazorWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\MISBlazorWeb\\MISBlazorWeb.csproj",
       "projectName": "MISBlazorWeb",
-      "projectPath": "/Users/vu/Projects/MISAPI/MISBlazorWeb/MISBlazorWeb.csproj",
-      "packagesPath": "/Users/vu/.nuget/packages/",
-      "outputPath": "/Users/vu/Projects/MISAPI/MISBlazorWeb/obj/",
+      "projectPath": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\MISBlazorWeb\\MISBlazorWeb.csproj",
+      "packagesPath": "C:\\Users\\Sea\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\MISBlazorWeb\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/vu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Sea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1270,6 +1277,9 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -1300,7 +1310,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
       }
     }
   }

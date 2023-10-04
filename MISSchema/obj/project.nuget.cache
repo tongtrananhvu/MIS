@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mTv14cZTwJ8K8ltSzE8X21CrkuewSrUKbOXidHIQQrDJofXutyA/TrXONfrlBsOvNjAzJ85u3x9xEzoIm0Xm8w==",
+  "dgSpecHash": "TZZdYcGiIvqJ0oxWKAZ5Ei3U0nYedM6YIOgAils/XchTKcbSrdChG2zrP+4HrYPe3pnqt5jAEU5EVcBFuaUoVQ==",
   "success": true,
-  "projectFilePath": "/Users/vu/Projects/MISAPI/MISSchema/MISSchema.csproj",
+  "projectFilePath": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\MISSchema\\MISSchema.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -6,7 +6,6 @@ C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISAPI\bin\Debug\net8.0\MISAPI.runti
 C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISAPI\bin\Debug\net8.0\MISAPI.dll
 C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISAPI\bin\Debug\net8.0\MISAPI.pdb
 C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\Sea\source\repos\tongtrananhvu\MIS\MISAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll

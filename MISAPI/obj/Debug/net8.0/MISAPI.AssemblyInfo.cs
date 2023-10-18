@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MISAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fe0fcb8f2656afe9aead040dc30c7c72e9e1ea0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MISAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MISAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

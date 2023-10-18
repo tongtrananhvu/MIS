@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\BlazorMIS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorMIS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorMIS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\BlazorMIS\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\BlazorMIS\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\BlazorMIS\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sea\\source\\repos\\tongtrananhvu\\MIS\\BlazorMIS\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorMIS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorMIS.props",
+      "PackagePath": "build\\BlazorMIS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorMIS.props",
+      "PackagePath": "buildMultiTargeting\\BlazorMIS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorMIS.props",
+      "PackagePath": "buildTransitive\\BlazorMIS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

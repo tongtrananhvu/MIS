@@ -4,10 +4,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISAPI", "MISAPI\MISAPI.csproj", "{06DC0150-1193-4397-B1D9-0F0FC663AD16}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD7EEA61-0BFC-440C-9251-FE13B0D923AF} = {CD7EEA61-0BFC-440C-9251-FE13B0D923AF}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISSchema", "MISSchema\MISSchema.csproj", "{D1015146-0A07-416A-B3FD-E4C556F33086}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MISBlazorWeb", "MISBlazorWeb\MISBlazorWeb.csproj", "{5B0AE4A0-FE76-43BD-8461-24AC81CF0338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMIS", "BlazorMIS\BlazorMIS.csproj", "{CD7EEA61-0BFC-440C-9251-FE13B0D923AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +26,10 @@ Global
 		{D1015146-0A07-416A-B3FD-E4C556F33086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1015146-0A07-416A-B3FD-E4C556F33086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1015146-0A07-416A-B3FD-E4C556F33086}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5B0AE4A0-FE76-43BD-8461-24AC81CF0338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B0AE4A0-FE76-43BD-8461-24AC81CF0338}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B0AE4A0-FE76-43BD-8461-24AC81CF0338}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B0AE4A0-FE76-43BD-8461-24AC81CF0338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7EEA61-0BFC-440C-9251-FE13B0D923AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7EEA61-0BFC-440C-9251-FE13B0D923AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7EEA61-0BFC-440C-9251-FE13B0D923AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7EEA61-0BFC-440C-9251-FE13B0D923AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
